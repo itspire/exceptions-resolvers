@@ -1,3 +1,3 @@
-# exceptions-resolvers
+# Itspire Exceptions - Resolvers
 
-Itspire Exception Resolver Classes
+This library follows the PSR-12 convention.
